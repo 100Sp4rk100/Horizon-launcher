@@ -1,0 +1,80 @@
+os/Applications/adminCheck.app
+os/Applications/fileExplorer.app
+os/Applications/imageViewer.app
+os/Applications/loadingScreen.app
+os/Applications/osSettings.app
+os/Applications/popup.app
+os/Applications/screensharing.app
+os/Applications/soundPlayer.app
+os/Applications/textViewer.app
+os/Applications/web.app
+os/Default Programs/dfpwm.lua
+os/Device Management/Keyboard/keyboard.lua
+os/Device Management/Screen/Mouse Position.lua
+os/Device Management/Screen/Screen Event.lua
+os/File System Management/Data System Management/Data System Management.lua
+os/File System Management/File Gestion/File Gestion.lua
+os/File System Management/Folder Gestion/Folder Gestion.lua
+os/File System Management/Global/Global.lua
+os/File System Management/List/List Gestion.lua
+os/File System Management/String Gestion/String Gestion.lua
+os/Kernel/Cubix.lua
+os/Libraries/Compile To Website.lib
+os/Libraries/Execute Website.lib
+os/Libraries/Internet Gestion.lib
+os/Libraries/Screen Sharing.lib
+os/Network Management/InternetProtocol.lua
+os/OS Data/App/fileExplorer/fileExplorer.dat
+os/OS Data/App/fileExplorer/logo.img
+os/OS Data/App/imageViewer/fount.img
+os/OS Data/App/imageViewer/imageViewer.dat
+os/OS Data/App/imageViewer/logo.img
+os/OS Data/App/loadingScreen/loadingScreen.dat
+os/OS Data/App/loadingScreen/logo.img
+os/OS Data/App/osSettings/logo.img
+os/OS Data/App/osSettings/osSettings.dat
+os/OS Data/App/screensharing/logo.img
+os/OS Data/App/screensharing/screensharing.dat
+os/OS Data/App/soundPlayer/logo.img
+os/OS Data/App/soundPlayer/soundPlayer.dat
+os/OS Data/App/textViewer/logo.img
+os/OS Data/App/textViewer/textViewer.dat
+os/OS Data/App/web/logo.img
+os/OS Data/App/web/web.dat
+os/OS Data/Data/ApplicationList.sys
+os/OS Data/Data/Login.sys
+os/OS Data/Data/OsGeneralEvent.sys
+os/OS Data/Image/Cubix.img
+os/OS Data/Image/File.img
+os/OS Data/Image/FileApp.img
+os/OS Data/Image/FileDFPWm.img
+os/OS Data/Image/FileDat.img
+os/OS Data/Image/FileImage.img
+os/OS Data/Image/FileInf.img
+os/OS Data/Image/FileInstall.img
+os/OS Data/Image/FileLib.img
+os/OS Data/Image/FileLua.img
+os/OS Data/Image/FileSys.img
+os/OS Data/Image/Folder.img
+os/OS Data/Security/Data.sys
+os/OS Data/Sounds/button-pressed.dfpwm
+os/OS Data/Sounds/error-warning-login-denied.dfpwm
+os/OS Data/Sounds/error.dfpwm
+os/OS Data/Sounds/login.dfpwm
+os/OS Data/Sounds/message-alert.dfpwm
+os/OS Data/Var/SystemVar.sys
+os/Process Management/launchApplication.lua
+os/Process Management/librairyExecution.lua
+os/Process Management/packageInstaller.lua
+os/Process Management/playSound.lua
+os/Process Management/popup.lua
+os/Security Management/Encryptor/Encryptor.lua
+os/Security Management/KeyGestion/KeyGestion.lua
+os/User Interface/Colors/Get Color.lua
+os/User Interface/GUI/Button/Button.lua
+os/User Interface/GUI/Content/Rectangle.lua
+os/User Interface/GUI/Content/Text.lua
+os/User Interface/GUI/Input/Input.lua
+os/User Interface/GUI/Screen/Screen.lua
+os/User Interface/GUI/Screen/ScreenLoader.lua
+os/User Interface/Image/Image.lua
